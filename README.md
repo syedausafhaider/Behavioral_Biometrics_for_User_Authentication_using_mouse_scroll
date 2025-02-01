@@ -49,7 +49,7 @@ I aim to develop a user authentication system based on unique mouse movement pat
 ### 🔧 Setup
 #### 📥 Clone the repository
 ```sh
-git clone https://github.com/yourusername/mouse-authentication.git
+git clone https://github.com/syedausafhaider/Behavioral_Biometrics_for_User_Authentication_using_mouse_scroll.git
 cd mouse-authentication
 ```
 
