@@ -109,7 +109,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 For questions or feedback, feel free to reach out:
 
 - **Email**: syedausafhaider@gmail.com
-- **GitHub**: [@syedausafhaider](https://github.com/your-github-username)
+- **GitHub**: [@syedausafhaider](https://github.com/syedausafhaider)
 
 ## Acknowledgments
 - Inspired by research on **behavioral biometrics** and **user authentication**.
