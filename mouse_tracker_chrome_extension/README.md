@@ -21,7 +21,7 @@ The **Mouse Movement Tracker** is a Chrome extension designed to collect mouse m
 ### Steps
 1. Clone or download this repository.
    ```bash
-   git clone https://github.com/your-repo/mouse-movement-tracker.git
+   git clone https://github.com/syedausafhaider/Behavioral_Biometrics_for_User_Authentication_using_mouse_scroll/mouse-movement-tracker.git
    ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer Mode** by toggling the switch in the top-right corner.
@@ -108,8 +108,8 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ## Contact
 For questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [@your-github-username](https://github.com/your-github-username)
+- **Email**: syedausafhaider@gmail.com
+- **GitHub**: [@syedausafhaider](https://github.com/your-github-username)
 
 ## Acknowledgments
 - Inspired by research on **behavioral biometrics** and **user authentication**.
