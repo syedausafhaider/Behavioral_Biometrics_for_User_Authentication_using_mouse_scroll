@@ -19,6 +19,8 @@ I aim to develop a user authentication system based on unique mouse movement pat
 
 ## 🏗 System Architecture
 ### 1️⃣ Data Collection Module
+- Please refer to syedausafhaider/mouse_tracker_chrome_extension
+- I have created a chrome extension that is allowed in developer mode to capture real time movement of cursor and acts a a data collection module.
 - I capture real-time mouse movements using JavaScript (for browsers) or PyAutoGUI (for desktop applications).
 - I store data in structured formats (CSV or database).
 
